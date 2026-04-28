@@ -1,9 +1,5 @@
 # 📚 Projeto Back-End Java - API de Livros
-## 🚀 Integrantes do projeto
- - Nivaldo
- - Arnaldo
- - Edvaldo
- - Ronaldo
+
 ## 🚀 Sobre o projeto
 Este projeto é uma API REST desenvolvida em Java utilizando Spring Boot.  
 O objetivo é realizar operações CRUD (Create, Read, Update, Delete) para gerenciamento de livros.
